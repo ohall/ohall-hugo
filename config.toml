@@ -1,0 +1,51 @@
+baseurl = "http://ohall.github.io/"
+languageCode = "en-us"
+title = "I'm not sayin', I'm just sayin'"
+
+[author]
+name = "Oakley Hall"
+# email will use for gravatar
+email = "oakley349@gmail.com"
+
+theme = "Greyshade"
+
+[taxonomies]
+category = "categories"
+
+[params]
+# site description, will show under navigation
+description = "just a blog"
+
+# RSS / Email (optional) subscription links (change if using something like Feedburner)
+subscribe_rss = "/index.xml"
+subscribe_email = ""
+
+# social links
+facebook_user = ""
+googleplus_user = ""
+twitter_user = "_ohall"
+github_user = "ohall"
+coderwall_user = ""
+stackoverflow_user = "oakley"
+stackoverflow_user_id = "1742747"
+linkedin_user = "oakleyhal"
+pinterest_user = ""
+delicious_user = ""
+pinboard_user = ""
+quora_user = ""
+instagram_user = ""
+behance_user = ""
+douban_user = ""
+
+# share links
+facebook_like = true
+twitter_tweet_button = true
+google_plus_one = "true"
+addthis_profile_id = ""
+
+# Disqus Comments
+disqus_short_name = ""
+disqus_show_comment_count = false
+
+# google analytics
+google_analytics_tracking_id = ""
