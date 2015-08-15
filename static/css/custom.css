@@ -1,0 +1,6 @@
+
+.social a {
+    -moz-border-radius:20%;
+    -webkit-border-radius:20%;
+    border-radius:20%;
+}

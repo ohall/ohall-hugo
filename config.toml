@@ -1,20 +1,18 @@
 baseurl = "http://ohall.github.io/"
 languageCode = "en-us"
-title = "I'm not sayin', I'm just sayin'"
+title = "blog.flowstate.io"
 
 [author]
 name = "Oakley Hall"
 # email will use for gravatar
 email = "oakley349@gmail.com"
 
-theme = "Greyshade"
-
 [taxonomies]
 category = "categories"
 
 [params]
 # site description, will show under navigation
-description = "just a blog"
+description = "I'm just sayin'"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss = "/index.xml"
@@ -44,8 +42,8 @@ google_plus_one = "true"
 addthis_profile_id = ""
 
 # Disqus Comments
-disqus_short_name = ""
-disqus_show_comment_count = false
+disqus_short_name = "flowstateio"
+disqus_show_comment_count = true
 
 # google analytics
 google_analytics_tracking_id = ""
