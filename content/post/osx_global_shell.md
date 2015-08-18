@@ -18,7 +18,7 @@ menu = "main"
 
 ### This example will open a document passed in as param in TextMate.  Obviously, you can use any app you like.
 
-#### 1 Create your script in /usr/local/bin on OSX, it will automatically be added to your $PATH
+#### 1 Create your script in `/usr/local/bin` on OSX, it will automatically be added to your `$PATH`
 
 ```sh
 /usr/local/bin/tm.sh

@@ -24,7 +24,9 @@ Understand [version control]().  [Git]() is the most popular at the moment and s
 Pick something and become a power user.  I personally feel most at home in an IDE, so I spend most of my time writing JavaScript in [Webstorm]().  I've created many custom templates that autocomplete common code snippets.  I know many keyboard shortcuts and tricks to simplify and expedite my workflow.  It's the equivalent of sitting in the driver's seat of a car and adjusting the mirrors and familiarizing yourself with the controls. I try to learn a little something new every day.  Some devs reccommend working without a mouse one day a week.  I haven't had the nerve for that one yet. 
 
 ### The terminal
-This is among the most important skills you'll need as a developer. This will come up over and over and over. 
+This is among the most important skills you'll need as a developer. This will come up over and over and over. Get comfortable navigating the files system in the terminal, running applications, viewing and changing permissions, piping data from one app to another.  
+
+<img src="/images/so_you_wanna_dev1.png"/>
 
 ### The platform
 
