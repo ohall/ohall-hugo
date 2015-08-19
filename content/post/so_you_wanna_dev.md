@@ -60,7 +60,7 @@ This is your world. These are the rules that will define what you can do and the
 
 Your early code is going to suck. In fact most of your code is going to suck, as will most of the code you will ever read. Nevertheless, you will persevere in the eternal struggle against entropy. You will endeavor to make your code readable and performant and something you are proud to show to others. Embrace simplicity, modularity, decoupling, testing, automation, documentation and all the other [hallmarks of a software craftsman](https://pragprog.com/the-pragmatic-programmer/extracts/tips).
 
-<img src="/images/so_you_wanna_dev2.png"/>
+<img src="/images/so_you_wanna_dev3.png"/>
 
 ## The mindset
 
