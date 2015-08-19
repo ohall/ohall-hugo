@@ -3,11 +3,13 @@ date = "2015-08-17T06:03:19-04:00"
 title = "Stop trying to learn a programming language"
 tags = [
     "javascript",
+    "junior",
     "development"
 ]
 categories = [
     "Development",
     "JavaScript",
+    "Getting Started"
 ]
 menu = "main"
 +++
@@ -38,7 +40,7 @@ Understand [version control](https://git-scm.com/book/en/v2/Getting-Started-Abou
 Pick something and become a power user. I personally feel most at home in an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), so I spend most of my time writing JavaScript in [Webstorm](https://www.jetbrains.com/webstorm/), but I also love the light weight editor [Sublime Text](http://www.sublimetext.com/). I've created a ton custom templates that autocomplete common code snippets. I know many keyboard shortcuts and tricks to simplify and expedite my workflow. It's the equivalent of sitting in the driver's seat of a car and adjusting the mirrors and familiarizing yourself with the controls. I try to learn a little something new every day. Some devs recommend working without a mouse one day a week. I haven't had the nerve for that one yet. 
 
 ### The terminal
-This is among the most important skills you'll need as a developer. This will come up over and over and over. Get comfortable navigating the files system in the terminal, running applications, viewing and changing permissions(`chmod`), piping data from one app to another (`|`). Searching for text strings in a file or directory (`grep`).
+This is among the most important skills you'll need as a developer. This will come up over and over and over. Get comfortable navigating the file system in the terminal (`cd` and `ls`), running applications, viewing and changing permissions(`chmod`), piping data from one app to another (`|`). Searching for text strings in a file or directory (`grep`).
 
 <img src="/images/so_you_wanna_dev1.png"/>
 
@@ -46,7 +48,7 @@ Eventually, you'll need tools like `ssh`, `scp` and the whole panoply of command
 
 ## The platform
 
-Where is your code going to execute?  How will your users interact with it. For me, right now, that's in the browser an [HTTP API](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340). Well, [what is a browser](http://googleblog.blogspot.com/2009/10/what-is-browser.html)? [How does HTTP work](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response)? What [tools](https://developer.chrome.com/devtools) [are](https://developer.mozilla.org/en-US/docs/Tools) [avaialble](https://developer.apple.com/safari/tools/) to [developers](https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx)?  
+Where is your code going to execute?  How will your users interact with it. For me, right now, that's in the browser and [Node's V8 engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)). Well, [what is a browser](http://googleblog.blogspot.com/2009/10/what-is-browser.html)? [How does HTTP work](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response)? What [tools](https://developer.chrome.com/devtools) [are](https://developer.mozilla.org/en-US/docs/Tools) [avaialble](https://developer.apple.com/safari/tools/) to [developers](https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx)?  
 
 <img src="/images/so_you_wanna_dev2.png"/>
 
