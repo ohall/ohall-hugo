@@ -21,11 +21,9 @@ My answer is always the same:
 	"It doesn't matter. Let the project decide for you."
 
 #### A story
-When I first started my journey as a professional software developer, I got hired to work on an application in a dying language on a platform that would soon be reviled the world over. It was a perfect place to start.
+When I first started my journey as a professional software developer, I got hired to work on an application written in a dying language on a platform that would soon be reviled the world over. This project was written in ActionScript 3, using the Flex framework. This was cutting edge stuff at the time, with a bright future, before Steve Jobs and 0 day exploits crapped in the Flash punch bowl. 
 
-The first real project I worked on was a Flash application written in ActionScript 3, using the Flex framework. This was cutting edge stuff at the time and seemed like it had a future, before Steve Jobs and 0 day exploits crapped in the punch bowl. 
-
-The point is, I started learning my craft using a language that I'd probably never see again. Looking back it was probably among the worst I could have chosen, __but that never mattered__.
+The point is, I started learning my craft using a language that I'd probably never see again, __but that never mattered__. What mattered is that I worked with a brilliant team who took time to train me in the craft of programming. I learned the fundamentals of software development and I learned the tools I have used every day since I started that project.
 
 An aspiring programmer fretting about what language to develop in is like a carpenter worrying about what wood to use. It's one of many choices to be made about a project, but it does not define the carpenter's expertise. 
 
@@ -37,7 +35,7 @@ What matters is not the material you work in, but the tools, the craft, and the 
 Understand [version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). [Git](https://git-scm.com/about) is the most popular at the moment and seems to have a firm hold on the space. Use [GitHub](https://github.com/). [Branch](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell), [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging), do [pull requests](https://help.github.com/articles/using-pull-requests/), even if they are just against your own code. You can version control any file. Use git for papers, blog posts, any document that you'll want to have a record of changes to.
 
 ### Text editor
-Pick something and become a power user. I personally feel most at home in an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), so I spend most of my time writing JavaScript in [Webstorm](https://www.jetbrains.com/webstorm/) and [Sublime Text](http://www.sublimetext.com/). I've created a ton custom templates that autocomplete common code snippets. I know many keyboard shortcuts and tricks to simplify and expedite my workflow. It's the equivalent of sitting in the driver's seat of a car and adjusting the mirrors and familiarizing yourself with the controls. I try to learn a little something new every day. Some devs reccommend working without a mouse one day a week. I haven't had the nerve for that one yet. 
+Pick something and become a power user. I personally feel most at home in an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), so I spend most of my time writing JavaScript in [Webstorm](https://www.jetbrains.com/webstorm/) and [Sublime Text](http://www.sublimetext.com/). I've created a ton custom templates that autocomplete common code snippets. I know many keyboard shortcuts and tricks to simplify and expedite my workflow. It's the equivalent of sitting in the driver's seat of a car and adjusting the mirrors and familiarizing yourself with the controls. I try to learn a little something new every day. Some devs recommend working without a mouse one day a week. I haven't had the nerve for that one yet. 
 
 ### The terminal
 This is among the most important skills you'll need as a developer. This will come up over and over and over. Get comfortable navigating the files system in the terminal, running applications, viewing and changing permissions(`chmod`), piping data from one app to another (`|`). Searching for text strings in a file or directory (`grep`).
