@@ -23,7 +23,7 @@ My answer is always the same:
 #### A story
 When I first started my journey as a professional software developer, I got hired to work on an application written in a dying language on a platform that would soon be reviled the world over. This project was written in ActionScript 3, using the Flex framework. This was cutting edge stuff at the time, with a bright future, before Steve Jobs and 0 day exploits crapped in the Flash punch bowl. 
 
-The point is, I started learning my craft using a language that I'd probably never see again, __but that never mattered__. What mattered is that I worked with a brilliant team who took time to train me in the craft of programming. I learned the fundamentals of software development and I learned the tools I have used every day since I started that project.
+The point is, I started learning my trade using a language that I'd probably never see again, __but that never mattered__. What mattered is that I worked with a brilliant team who took time to train me in the craft of programming. I learned the fundamentals of software development and I learned the tools I have used every day since I started that project.
 
 An aspiring programmer fretting about what language to develop in is like a carpenter worrying about what wood to use. It's one of many choices to be made about a project, but it does not define the carpenter's expertise. 
 
