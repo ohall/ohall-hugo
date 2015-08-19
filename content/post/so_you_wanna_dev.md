@@ -68,7 +68,7 @@ Your early code is going to suck. In fact most of your code is going to suck, as
 You're going to hear criticism of your bad code, don't shy away from that. Embrace it, learn from it, write it down. Endeavor not to make the same mistake twice. Do not hide your code, seek review and criticism. This is how you will grow. Seek out more senior programmers and read their code. Show gratitude when they take the time to tell you what to fix in yours. 
 
 ### Make stuff constantly
-Some people can read book to learn how to do things. Not me. I can only learn by doing things badly and then researching, reading and iterating over it. Hence, I must constantly be working on side project to learn how to do anything. __Think of something you want to make and then figure out how to do it one small piece at a time.__ This is the formula.
+Some people can read book to learn how to do things. Not me. I can only learn by doing things badly and then researching, reading and iterating over it. Hence, I must constantly be working on side project to learn how to do anything. __Think of something you want to make and then figure out how to do it one small piece at a time.__ <-- This is the secret formula for becoming a software developer.
 
 ### Read, read and listen
 Read [books](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read), read [blogs](http://blog.codinghorror.com/), read [hacker news](https://news.ycombinator.com/), read [Stack Overflow](http://stackoverflow.com/) read [code](https://github.com/joyent/node/blob/master/lib/_http_server.js), listen to [podcasts](https://devchat.tv/js-jabber/). Perhaps the 300th explanation of a concept will be the one that sinks in. 
