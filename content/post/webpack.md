@@ -23,7 +23,7 @@ Exhale. Webpack is not that complicated, especially for simple work flows. It's 
 
 ### What is the point of Webpack?
 
-Webpack is a module bundler. You may be familiar with `Browserify` which allows you to use the AMD (Asynchronous Module Definition) syntax (`var foo = require('bar');`) in your frontend code, much the same and you would in you Node applications. Basically this:
+Webpack is a module bundler. You may be familiar with `Browserify` which allows you to use the AMD (Asynchronous Module Definition) syntax (`var foo = require('bar');`) in your frontend code, much the same and you would in your Node applications. Basically this:
 
 ```js
 // awesome is exported in another file
@@ -37,7 +37,7 @@ These tools basically suck in all the JS files required by your app and concaten
 
 ### But why Webpack? Doesn't Browserify do this more simply?
 
-There are [compelling](http://mattdesl.svbtle.com/browserify-vs-webpack) [arguments](http://blog.namangoel.com/browserify-vs-webpack-js-drama) for both [technologies](https://www.reddit.com/r/reactjs/comments/30at04/webpack_vs_browserify_whats_best_for_react/). One big arguement for Webpack is the ability to do [React Hot-loading](https://gaearon.github.io/react-hot-loader/) easily, speeing up dev time. But this post isn't about choosing between the two. For whatever reason, you're using Webpack not, DEAL WITH IT.
+There are [compelling](http://mattdesl.svbtle.com/browserify-vs-webpack) [arguments](http://blog.namangoel.com/browserify-vs-webpack-js-drama) for both [technologies](https://www.reddit.com/r/reactjs/comments/30at04/webpack_vs_browserify_whats_best_for_react/). One big arguement for Webpack is the ability to do [React Hot-loading](https://gaearon.github.io/react-hot-loader/) easily, speeding up dev time. But this post isn't about choosing between the two. For whatever reason, you're using Webpack now, DEAL WITH IT.
 
 ### I'm looking at webpack.config.js and I'm angry.
 Whoa. It's cool. Look, let's start with a very simple example, so we can improve the signal to noise ratio. You can find a repo with this example here: [https://github.com/ohall/webpack-example](https://github.com/ohall/webpack-example) 
