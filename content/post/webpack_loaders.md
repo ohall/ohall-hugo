@@ -5,3 +5,6 @@ title = "webpack_loaders"
 
 +++
 
+## What is a loader?
+
+A loader is [basically a preprocessor](http://webpack.github.io/docs/loaders.html).  
