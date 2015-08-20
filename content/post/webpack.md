@@ -74,6 +74,8 @@ module.exports = {
     }
 }
 ```
+NOTE: `__dirname` is a [reference in Node for the currently executing directory.](https://nodejs.org/docs/latest/api/globals.html#globals_dirname)
+
 
 Once you've installed Webpack globally,
 
