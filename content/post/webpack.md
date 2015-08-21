@@ -101,4 +101,4 @@ you can run `webpack` and create a `bundle.js` file that includes all the module
 ### Conclusion
 There is SO much more to Webpack, that I'll dive into in the next post. For now though, you have enough to get you a footing in Webpack and start experimenting. JS tooling can be frustrating, especially when it feels like you have to learn a whole new build system every week. Don't despair! Start simple, take time to learn it and try to have fun.
 
-<a hred
+Next up: <a href="post/webpack_loaders">webpack loaders<a>
