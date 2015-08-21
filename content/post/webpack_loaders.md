@@ -1,8 +1,16 @@
 +++
 date = "2015-08-20T09:00:59-04:00"
-draft = true
-title = "webpack_loaders"
-
+tags = [
+    "javascript",
+    "webpack",
+    "development"
+]
+categories = [
+    "Development",
+    "Tooling",
+    "JavaScript"
+]
+title = "Webpack Loaders"
 +++
 
 ## What is a loader?
@@ -12,7 +20,7 @@ A loader is [basically a preprocessor](http://webpack.github.io/docs/loaders.htm
 ## Example, please
 You can check out the working example here [repo here](https://github.com/ohall/webpack-loaders-example).
 
-So here is our `index.js` with some cutting edge EcmaScript6 code.
+So here is our `index.js` with some cutting edge ECMAScript6 code.
 
 ```js
 // look at this cool ES6 syntax!
@@ -27,7 +35,7 @@ Oh no! Gruesome error!
 
 ```sh
 ERROR in ./index.js
-Module parse failed: /Users/ohall1/Documents/projects/webpack-loaders-example/index.js Line 2: Unexpected reserved word
+Module parse failed: /Users/ohall/Documents/projects/webpack-loaders-example/index.js Line 2: Unexpected reserved word
 You may need an appropriate loader to handle this file type.
 | // look at this cool ES6 syntax!
 | import sweet from './sweet';
@@ -94,6 +102,6 @@ Simple, right?
 
 ## What else can I use loaders for.
 
-You can process anything.  Commone use cases include `JSON`, `CSS`, static assets like images, dialects like CoffeeScript and Typescript.  The webpack wiki contains a [list of available loaders](https://github.com/webpack/docs/wiki/list-of-loaders) or you can [roll your own](http://webpack.github.io/docs/loaders.html#writing-a-loader).
+You can process anything.  Common use cases include `JSON`, `CSS`, static assets like images, dialects like CoffeeScript and Typescript.  The webpack wiki contains a [list of available loaders](https://github.com/webpack/docs/wiki/list-of-loaders) or you can [roll your own](http://webpack.github.io/docs/loaders.html#writing-a-loader).
 
 
