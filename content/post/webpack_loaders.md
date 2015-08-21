@@ -13,6 +13,8 @@ categories = [
 title = "Webpack Loaders"
 +++
 
+Start with the <a href="/post/webpack">webpack basics<a>
+
 ## What is a loader?
 
 A loader is [basically a preprocessor](http://webpack.github.io/docs/loaders.html). It's how you let webpack know that you'd like to transform a module in some specified way. For example, let's say you are writing your code in [ES6](https://hacks.mozilla.org/category/es6-in-depth/) and you'd like webpack to process that into ES5 so the browser can parse it.  You'd define a loader for [babel](https://babeljs.io/) that looks for `.js` files being required and then runs them through babel before adding them to the [bundle](https://github.com/webpack/webpack/tree/master/examples/commonjs#jsoutputjs).
