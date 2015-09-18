@@ -20,14 +20,15 @@ title = "NPM Shrinkwrap is easy"
 +++
 
 
-In this hypothetical example, you're a programmer who has a project. In this project, you are using a bunch of dependecies, which you manage with NPM and are specified in the `package.json` file.
+In this hypothetical example, you're a programmer who has a project. In this project, you are using a bunch of dependencies, which you manage with NPM and are specified in the `package.json` file.
 
-Whenever you build this app, you install all the things using `npm install`.  You continue to build the app and deploy it and your users use it
-```.  Except one day you build the app and it breaks! WHY?! You haven't even touched the code!
+Whenever you build this app, you install all the things using `npm install`.  You continue to build the app and deploy it and your users use it.  
 
-Aha! A dependency has changed, or a dependency of a dependency and now our build is broken. Alas. 
+Except one day you build the app and it breaks! WHY?! You haven't even touched the code!
+
+Aha! A dependency has changed, or a dependency of a dependency and now our build is broken.
     
-So you're telling me that unless every package uses specific package version, my build could break at ANY time! 
+So you're telling me that unless every package uses specific package version, my build could break at ANY time? 
 
 Yes.
 
@@ -37,17 +38,17 @@ There is!
 
 ## NPM Shrinkwrap
 
-NPM Shrinkwrap locks your entire dependency tree to the current intalled version.  This is built into NPM and you can do it right now.
+NPM Shrinkwrap locks your entire dependency tree to the current installed version.  This is built into NPM and you can do it right now.
 
 This command.
 
 ```
-npm shinkwrap
+npm shrinkwrap
 ```
 
-will generate a file called `npm-shrinkwrap.json` that specified EXACTLY which version of each dependency will be installed when you `npm install`.
+will generate a file called `npm-shrinkwrap.json` that specified EXACTLY which version of each dependency will be installed when you call `npm install`.
 
-If you want to update a package, run `npm update <package_name>`. and then re-run `npm shinkwrap` to update your `npm-shrinkwrap.json`.
+If you want to update a package, run `npm update <package_name>`. and then re-run `npm shrinkwrap` to update your `npm-shrinkwrap.json`.
 
 if you want to see which packages are out of date, you can use:
 
