@@ -8,7 +8,7 @@ tags = [
 categories = [
     "Development",
     "Tooling",
-    "JavaScript"
+    "JavaScript" 
 ]
 title = "Webpack Loaders"
 +++
