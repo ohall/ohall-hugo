@@ -8,7 +8,7 @@ categories = [
     "DevOps",
     "cloud"
 ]
-title = "Into to OneOps"
+title = "Intro to OneOps"
 +++
 ![OneOps Banner](http://www.businesscloudnews.com/files/2016/01/Walmart-OneOps.jpg)
 
