@@ -12,7 +12,6 @@ title = "Intro to OneOps"
 +++
 ![OneOps Banner](http://www.businesscloudnews.com/files/2016/01/Walmart-OneOps.jpg)
 
-#OneOps
 
 [WalmartLabs](http://www.walmartlabs.com/) has recently open sources their cloud management platform [OneOps](http://www.walmartlabs.com/2016/01/oneops-now-available/).  You can dive into the documentation [here](http://oneops.com/) or examine the source code [here](https://github.com/oneops/). As a OneOps user, I'd like to offer a quick spin around OneOps and an overview of what it does.
 
