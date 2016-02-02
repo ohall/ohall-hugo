@@ -39,13 +39,13 @@ A design consists of one or more Platforms for which you'll configure the protot
 
 #### Platform 
 
-The Platform represents a VM cluster. A Design will contain one or more. For example, you can have a design that contains just a backend server OR it could contain server, database and apache components, depending how you want to organize things. Platforms can be built from scratch, but is generally built from a [Pack](http://oneops.github.io/user/references/#platform-packs) which is a set of preconfigured Components.
+The Platform represents a VM cluster. A Design will contain one or more platforms. For example, you can have a design that contains just a backend server OR it could contain server, database and apache components, depending how you want to organize things. Platforms can be built from scratch, but is generally built from a [Pack](http://oneops.github.io/user/references/#platform-packs) which is a set of preconfigured Components.
 
 #### Components 
 
 Components represent configurations and installed software and files on the VMs. Some examples include:
 
- - Node
+ - NodeJS
  - Java
  - SSH keys
  - Load Balancer
@@ -61,7 +61,7 @@ Another example is a File component which allows to you place a file in an arbit
 ![](https://raw.githubusercontent.com/oneops/oneops.github.io/master/assets/local/images/design-graph.png)
 
 ## Transition:
-In the transition phase you will: Configure environments. (PROD, STAGE, QA, etc.) Determine which clouds our platforms will be deployed on in those environments. Set environment specific configurations. It is also in the transition phase that you deploy your platforms.
+In the transition phase you will: Configure environments. (PROD, STAGE, QA, etc.) Determine which clouds your platforms will be deployed on in those environments. Set environment specific configurations. It is also in the transition phase that you deploy your platforms.
 
 When you create an environment you'll "Pull" your design into it in order to set all the configurations for that environment. In the Transition tab in the GUI you'll see the same fields as in Design, pre-populated with the values set in the Design. However you can change any of those values and that change will be reflected in this environment. This change will be overwritten next time you pull a design change UNLESS you LOCK the field.
 
@@ -86,6 +86,6 @@ There will be a lot of cases where you'll want to integrate OneOps with other co
 ### The good
 OneOps is a powerful cloud management tool that you can experiment with today. Right off the shelf it provides a nice end to end solution for configuring and managing a range of cloud solutions. Standing up VM clusters with simple preset configurations is easy and viewing and maintaining VM health can be done with just a few clicks.
 ### The not as good
-The operations executed by OneOps are often complex and debugging failures can be difficult. [The OneOps team](https://oneops.slack.com/) is incredibly responsive, but at times it can feel like there is a little black magic going on behind the scenes. The version control scheme for components and configurations and be opaque.  There are often times when you'd like to just use versioned files from Github or the like and while it's possible, it's not always obvious how to do it.  
+The operations executed by OneOps are often complex and debugging failures can be difficult. [The OneOps team](http://oneops.com/contribute.html) is incredibly responsive, but at times it can feel like there is a little black magic going on behind the scenes. The version control scheme for components and configurations and be opaque.  There are often times when you'd like to just use versioned files from Github or the like and while it's possible, it's not always obvious how to do it.  
 ### The future
 I'm glad that now that OneOps is open source, the response to my complaints will be "File a PR!". I think community involvement will make an already powerful tool even more useful and user friendly.
