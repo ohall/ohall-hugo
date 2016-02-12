@@ -70,10 +70,11 @@ When you create an environment you'll "Pull" your design into it in order to set
 Once you've configured your environment, you'll commit the changes and deploy them. This phase actually provisions and configures your VMs in real life on real machines. All components will be deployed in the initial deployment. On subsequent deployments, on components that have been changed or explicitly "Touched" will be deployed.
 
 You can touch a component any time from its bread crumb menu.
+
 ![transition](https://raw.githubusercontent.com/oneops/oneops.github.io/master/assets/local/images/GettingStartedEC2CommitAndDeploy.png)
 
 ## Operate:
-The Operate phase is how you view monitor and control your clusters now that they are active. You can see the health of individual computes, stop, repair or replace them. you can also see vital information about your VMs including IPs and host names.
+The Operate phase is how you view, monitor and control your clusters now that they are active. You can see the health of individual computes, stop, repair or replace them. you can also see vital information about your VMs including IPs and host names.
 
 Drilling down in a component in the Operate view will show all the computes it is installed on and a summary of attributes. You can select a compute and see the state of that component as it exists on that compute. This view shows the configuration, notifications, logs and some actions you can execute on the component.
 
