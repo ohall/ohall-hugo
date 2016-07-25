@@ -48,7 +48,7 @@ Eventually, you'll need tools like `ssh`, `scp` and the whole panoply of command
 
 ## The platform
 
-Where is your code going to execute?  How will your users interact with it. For me, right now, that's in the browser and [Node's V8 engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)). Well, [what is a browser](http://googleblog.blogspot.com/2009/10/what-is-browser.html)? [How does HTTP work](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response)? What [tools](https://developer.chrome.com/devtools) [are](https://developer.mozilla.org/en-US/docs/Tools) [available](https://developer.apple.com/safari/tools/) to [developers](https://msdn.microsoft.com/en-us/library/dd565628)?  
+Where is your code going to execute?  How will your users interact with it. For me, right now, that's in the browser and [Node's V8 engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)). Well, [what is a browser](http://googleblog.blogspot.com/2009/10/what-is-browser.html)? [How does HTTP work](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response)? What [tools](https://developer.chrome.com/devtools) [are](https://developer.mozilla.org/en-US/docs/Tools) [avaialble](https://developer.apple.com/safari/tools/) to [developers](https://msdn.microsoft.com/en-us/library/dd565628(v=vs.85).aspx)?  
 
 <img src="/images/so_you_wanna_dev2.png"/>
 
